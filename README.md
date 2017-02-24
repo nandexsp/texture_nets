@@ -79,4 +79,4 @@ Again, `noise_depth` should be consistent with training setting.
 
 The code is based on [Justin Johnson's great code](https://github.com/jcjohnson/neural-style) for artistic style.
 The work was supported by [Yandex](https://www.yandex.ru/) and [Skoltech](http://sites.skoltech.ru/compvision/).
-Thanks to DmitryUlyanov. 
+Thanks to DmitryUlyanov.
