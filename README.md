@@ -49,8 +49,16 @@ th train.lua -data datasets/ -style_image $style -style_size 1024  -model johnso
 ### Testing
 
 ```
-th test.lua -input_image path/to/image.jpg -model data/checkpoints/model.t7
+th fast.lua -input_image source.jpg -model_t7 ./models/model.t7 -save_path out.png -image_size 0 -keep_color 0
 ```
+-input_image Image to stylize. []
+-image_size  Resize input image to. Do not resize if 0. [0]
+-model_t7    Path to trained model.t7 []
+-save_path   Path to save stylized image. [stylized.jpg]
+-cpu         Use this flag to run on CPU [false]
+-keep_color  Use keep color to keep original color. [0]
+
+YOU could try Birth & composition. We put our pretrained models in ./models/
 
 ### Process
 
