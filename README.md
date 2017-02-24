@@ -60,6 +60,8 @@ th fast.lua -input_image source.jpg -model_t7 ./models/model.t7 -save_path out.p
 -keep_color  Use keep color to keep original color. [0]
 ```
 YOU could try Birth & Composition. We put our pretrained models in ./models/
+---------------------------------------------------------------------------
+
 ![Birth](data/pretrained/birth.jpg)
 ![Composition](data/pretrained/composition.jpg )
 
