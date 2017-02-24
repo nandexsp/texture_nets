@@ -62,8 +62,8 @@ th fast.lua -input_image source.jpg -model_t7 ./models/model.t7 -save_path out.p
 YOU could try Birth & Composition. We put our pretrained models in ./models/
 ---------------------------------------------------------------------------
 
-![Birth](data/pretrained/birth.jpg)
-![Composition](data/pretrained/composition.jpg )
+![Birth](data/pretrained/birth.jpg =200x200)
+![Composition](data/pretrained/composition.jpg =200x200 )
 
 ### Process
 
