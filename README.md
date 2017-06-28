@@ -65,7 +65,7 @@ YOU could try Birth, Composition, Illegal Beauty, Lillies & Mononoke. We put our
 ![Birth](./data/pretrained/birth.jpg)
 ![Composition](./data/pretrained/composition.jpg)
 ![Illegal_Beauty](./data/pretrained/illegal_beauty.jpg)
-![Lillies](./data/pretrained/lillies.jpg)
+![Lilies](./data/pretrained/lilies.jpg)
 ![Mononoke](./data/pretrained/mononoke.jpg)
 
 ### Process
