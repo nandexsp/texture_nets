@@ -59,7 +59,7 @@ th fast.lua -input_image source.jpg -model_t7 ./models/model.t7 -save_path out.p
 -cpu         Use this flag to run on CPU [false]
 -keep_color  Use keep color to keep original color. [0]
 ```
-YOU could try Birth, Composition, Illegal Beauty, Lillies & Mononoke. We put our pretrained models in ./models/
+YOU could try Birth, Composition, Illegal Beauty, Lilies & Mononoke. We put our pretrained models in ./models/
 ---------------------------------------------------------------------------
 
 ![Birth](./data/pretrained/birth.jpg)
